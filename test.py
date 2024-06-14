@@ -10,3 +10,4 @@ class Test():
 
 t = Test(a=1, b=2, c=3)
 print(t.get_umnozenie())
+git s
